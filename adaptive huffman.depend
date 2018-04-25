@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524353245 source:d:\lecture(3,2)\data compression\assignment 1\adaptive huffman\main.cpp
+	"adaptiveHuffman.h"
+	<math.h>
+	<string>
+	<bits/stdc++.h>
+
+1524483207 d:\lecture(3,2)\data compression\assignment 1\adaptive huffman\adaptivehuffman.h
+	<string>
+	"adaptiveHuffman.cpp"
+	"decodingHuffman.cpp"
+
+1524477802 d:\lecture(3,2)\data compression\assignment 1\adaptive huffman\adaptivehuffman.cpp
+	<string>
+	<bits/stdc++.h>
+
+1524487799 d:\lecture(3,2)\data compression\assignment 1\adaptive huffman\decodinghuffman.cpp
+	<bits/stdc++.h>
+	<string>
+	<math.h>
+
